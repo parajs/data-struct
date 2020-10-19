@@ -1,0 +1,35 @@
+{
+  "name": "queue",
+  "version": "0.0.0",
+  "description": "a highly performant queue implementation in javascript",
+  "keywords": [
+    "queue",
+    "queue-js",
+    "queue es6",
+    "queue js",
+  ],
+  "author": "chenguzhen87 <546369005@qq.com>",
+  "homepage": "https://github.com/parajs/datastruct#readme",
+  "license": "ISC",
+  "main": "src/queue.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parajs/datastruct.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/parajs/datastruct/issues"
+  }
+}
